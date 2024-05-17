@@ -184,7 +184,7 @@ https://cybertechnex.co.in/
 
 
                                      
-Project Link: https://github.com/cifertech/WiFiBox
+Project Link: https://github.com/CyberTechNex/ESP32-WIFI-Scanner
 
 
 💎 Acknowledgements:
