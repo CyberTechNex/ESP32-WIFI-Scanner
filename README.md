@@ -9,7 +9,7 @@ ESP-32 Wi-Fi Scanner
 
 [Features](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-features)
 
-[Getting Started]([https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-getting-started)
+[Getting Started](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-getting-started)
 
 [Parts Needed](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#parts-needed)
 
