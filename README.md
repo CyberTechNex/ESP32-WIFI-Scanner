@@ -29,7 +29,9 @@ This project implements a Wi-Fi scanner using an ESP32 microcontroller. It allow
 📷 Pictures
 -------------
 
-
+![Device picture 1](images/oled_1.jpeg)
+![Device picture 2](images/oled_2.jpeg)
+![Device picture 3](images/oled_3.jpeg)
 
 
 
@@ -81,11 +83,12 @@ Button:
 Complete Schematic:
 -------------
 
-
+![Complete Circuit](images/complete_circuit_diagram.png)
 
 Breadboard Schematic:
 -------------
 
+![Breadboard circuit](images/breadboard_circuit.jpg)
 
 ⚡ PCB (Not tested):
 -------------
@@ -93,31 +96,21 @@ I made a prototype of a PCB for this circuit will be sharing the files once i ve
 
 Images are given below:
 
+![Pcb image 1](images/pcb_1.PNG)
 
+![Pcb image 2](images/pcb_2.PNG)
 
+![Pcb image 3](images/pcb_3.PNG)
 
+![Pcb image 4](images/pcb_4.PNG)
 
+Will upload the schematic files soon...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-------------
+-------------
 
 ⚙️ Flashing Code:
-
+-------------
 To flash this code the Arduino IDE software will be needed which can be downloaded from the official arduino website at : https://www.arduino.cc/en/software.
 
 
@@ -168,6 +161,7 @@ This process should successfully take place without any errors.
 
 
 👀 Usage:
+-------------
 
 After uploading the code, An intro screen appears with the name and credits (also an ASCII art of a cat),which switches to the Wi-Fi information page where the wifi info of all the wifis are available. Each wifi network has its own page. The button connected to the pin D23 of the ESP32 can be used to navigate the different pages of WIFI networks. To initiate a rescan of the networks the button connected to the pin D15 has to be pressed , a loading screen with a countdown for 5 seconds (along a ASCII art of a cat) will appear. Soon after the timer reaches zero the main wifi information page appears again but with updated WIFI information.
 
