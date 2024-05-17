@@ -3,21 +3,25 @@ ESP-32 Wi-Fi Scanner
 
 📔 Table of Contents:
 -------------
-About the Project
+[About the Project](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-about-the-project)
 
-Pictures
+[Pictures](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-pictures)
 
-Features
+[Features](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-features)
 
-Getting Started
+[Getting Started]([https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-getting-started)
 
-Schematic
+[Parts Needed](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#parts-needed)
 
-Installation
+[Schematic](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-schematics)
 
-Usage
+[PCB ( Not Tested )](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-pcb-not-tested)
 
-Contact
+[Flashing Code](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#%EF%B8%8F-flashing-code)
+
+[Usage](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-usage)
+
+[Contact](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/edit/main/README.md#-contact)
 
 -------------
 -------------
@@ -168,6 +172,7 @@ After uploading the code, An intro screen appears with the name and credits (als
 
 
 🤝 Contact
+-------------
 
 CyberTechNex (A1D3N) - 
 
