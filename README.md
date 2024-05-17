@@ -189,4 +189,4 @@ Project Link: https://github.com/CyberTechNex/ESP32-WIFI-Scanner
 
 💎 Acknowledgements:
 
-Fattcat****
+**Fattcat**
