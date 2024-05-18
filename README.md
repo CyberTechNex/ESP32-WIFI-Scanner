@@ -3,25 +3,26 @@ ESP-32 Wi-Fi Scanner
 
 📔 Table of Contents:
 -------------
-[About the Project](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-about-the-project)
 
-[Pictures](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-pictures)
+About the Project
 
-[Features](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#-features)
+Pictures
 
-[Getting Started](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-getting-started)
+Features
 
-[Parts Needed](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main#parts-needed)
+Getting Started
 
-[Schematic](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-schematics)
+Parts Needed
 
-[PCB ( Not Tested )](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-pcb-not-tested)
+Schematic
 
-[Flashing Code](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#%EF%B8%8F-flashing-code)
+PCB ( Not Tested )
 
-[Usage](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-usage)
+Flashing Code
 
-[Contact](#contact)
+Usage
+
+Contact
 
 -------------
 -------------
