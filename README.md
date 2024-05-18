@@ -21,16 +21,16 @@ ESP-32 Wi-Fi Scanner
 
 [Usage](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/tree/main?tab=readme-ov-file#-usage)
 
-[Contact](https://github.com/CyberTechNex/ESP32-WIFI-Scanner/edit/main/README.md#-contact)
+[Contact](#contact)
 
 -------------
 -------------
 
-🔎 About the Project
+# 🔎 About the Project
 -------------
 This project implements a Wi-Fi scanner using an ESP32 microcontroller. It allows users to scan for nearby Wi-Fi networks, display information such as SSID, MAC address, security type, RSSI, distance, and channel on an OLED display. Additionally, it features a functionality for rescanning networks at regular intervals. 
 
-📷 Pictures
+# 📷 Pictures
 -------------
 
 ![Device picture 1](images/oled_1.jpeg)
@@ -39,7 +39,7 @@ This project implements a Wi-Fi scanner using an ESP32 microcontroller. It allow
 
 
 
-📝 Features
+# 📝 Features
 -------------
 * Estimates distance in metres between AP and ESP 32 with the help of RSSI value.
 * Displays each Wi-Fi info on a separate page.
@@ -47,7 +47,7 @@ This project implements a Wi-Fi scanner using an ESP32 microcontroller. It allow
 * Displays a page number on the bottom right and number updates with each page ,it resets when it returns to first Wi-Fi info.
 * Has a functionality to rescan and locate any changes in the Wi-Fi networks nearby.
 
-🧰 Getting Started
+# 🧰 Getting Started
 -------------
 I used an ESP32 for the microcontroller and an OLED screen to display the Wi-Fi networks. Push buttons were also used to navigate across the different Wi-Fi access points scanned.
 
@@ -61,7 +61,7 @@ Parts Needed:
 * Push Button
 
 
-🔌 Schematics
+# 🔌 Schematics
 -------------
 The table indicating the connections and the schematics for assembly are shown below.
 
@@ -94,7 +94,7 @@ Breadboard Schematic:
 
 ![Breadboard circuit](images/breadboard_circuit.jpg)
 
-⚡ PCB (Not tested):
+# ⚡ PCB (Not tested):
 -------------
 I made a prototype of a PCB for this circuit will be sharing the files once i verify it has no problems.
 
@@ -113,7 +113,7 @@ Will upload the schematic files soon...
 -------------
 -------------
 
-⚙️ Flashing Code:
+# ⚙️ Flashing Code:
 -------------
 To flash this code the Arduino IDE software will be needed which can be downloaded from the official arduino website at : https://www.arduino.cc/en/software.
 
@@ -164,14 +164,14 @@ This process should successfully take place without any errors.
 (In case of any issues or bugs open an issue on github describing what the issue or bug is OR contact me via social media or mail.)
 
 
-👀 Usage:
+# 👀 Usage:
 -------------
 
 After uploading the code, An intro screen appears with the name and credits (also an ASCII art of a cat),which switches to the Wi-Fi information page where the wifi info of all the wifis are available. Each wifi network has its own page. The button connected to the pin D23 of the ESP32 can be used to navigate the different pages of WIFI networks. To initiate a rescan of the networks the button connected to the pin D15 has to be pressed , a loading screen with a countdown for 5 seconds (along a ASCII art of a cat) will appear. Soon after the timer reaches zero the main wifi information page appears again but with updated WIFI information.
 
 
 
-🤝 Contact
+ 🤝 ## Contact
 -------------
 
 CyberTechNex (A1D3N) - 
